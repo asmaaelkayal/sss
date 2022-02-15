@@ -1,0 +1,33 @@
+
+body{
+    background-color:antiquewhite;
+  
+    background-size: cover;
+    background-position: center;
+    
+}
+fieldset
+            {
+             background-color:burlywood;
+                width: 450px;
+                margin-left: 10%;
+                border-style: none;
+                border-style: solid;
+                border-color:brown;
+                border-width:2px;
+                border-radius: 10px;
+                margin-bottom: 20px;
+                margin-top: 20px;
+                padding-left: 20px;
+                padding-top: 20px;
+          
+}
+.finput{
+    margin-left: 27px;
+}
+#einput{
+    margin-left: 58px;
+}
+img{
+    border-radius: 100%;
+}
